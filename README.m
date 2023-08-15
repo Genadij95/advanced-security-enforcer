@@ -1,4 +1,4 @@
-# Advanced-Security-Enforcer
+# Advaned-Security-Enforcer
 [![CodeQL](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/codeql-analysis.yml)
 [![Docker Image CI](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/docker-image.yml/badge.svg)](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/docker-image.yml)
 [![.github/workflows/linter.yml](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/linter.yml/badge.svg)](https://github.com/zkoppert/advanced-security-enforcer/actions/workflows/linter.yml)
